@@ -8,7 +8,17 @@
 
 - 解决方法一：VSCode 安装 Live Server 拓展插件，通过 VScode 来运行 dist 中的 index.html
 - 解决方法二：启动一个本地服务器，`npm` 安装 `http-server` 包
-- 暂时禁用浏览器的同源策略
+- 解决方法三：暂时禁用浏览器的同源策略
+
+
+
+## 技术栈:
+
+- ## vue3
+
+## 安装： ```npm install```
+
+## 运行：  ```npm run dev```
 
 
 
